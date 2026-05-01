@@ -46,7 +46,7 @@
       </widget>
      </item>
      <item>
-      <widget class="QPushButton" name="resetBTn">
+      <widget class="QPushButton" name="resetBtn">
        <property name="text">
         <string>Reset button</string>
        </property>
